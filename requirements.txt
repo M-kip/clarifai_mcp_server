@@ -1,0 +1,2 @@
+clarifai>=11.3.0
+torch==2.5.1
